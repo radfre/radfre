@@ -4,7 +4,7 @@
 Im curently working on website devlopments and learning kurbnetes
 
 
-
+![Snake animation](https://github.com/radfre/radfre/blob/output/github-contribution-grid-snake.svg)
 
 
 
