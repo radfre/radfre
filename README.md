@@ -5,12 +5,16 @@ Im curently working on website devlopments and learning kurbnetes
 
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=radfre&show_icons=true)  -->
-![Snake animation](https://github.com/radfre/radfre/blob/output/github-contribution-snake.svg)
+
+
+![Snake animation](https://raw.githubusercontent.com/radfre/radfre/output/dist/github-contribution-grid-snake.svg)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" /> 
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radfre/radfre/output/dist/github-contribution-grid-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radfre/radfre/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/radfre/radfre/output/dist/github-contribution-grid-snake.svg" />
 </picture>
+
 
 
 
