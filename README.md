@@ -1,7 +1,10 @@
-## Hi Im radfre
-### Im an IT infastructure specilist and student at IIT
+## Hello, I'm radfre 👋
+### About Me
+I'm an IT infrastructure specialist and currently pursuing my studies at IIT. My primary focus lies in website development, and I'm enthusiastically diving into the world of Kubernetes to expand my skill set.
 
-Im curently working on website devlopments and learning kurbnetes
+### What I'm Doing
+🔭 Currently working on website development projects
+🌱 Learning the ins and outs of Kubernetes
 
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=radfre&show_icons=true)  -->
@@ -14,7 +17,15 @@ Im curently working on website devlopments and learning kurbnetes
 </picture>
 
 
+### Connect With Me
+📫 Reach out to me at Schatzalex97@gmail.com
 
+Connect on [LinkedIn](https://www.linkedin.com/in/alexander-schatz-9197ba1b5/)
+
+### Fun Fact
+I love baking delightful pastries and experimenting with new recipes! It's my creative outlet and brings a sense of joy and fulfillment to my life.
+
+Feel free to explore my repositories and connect with me. I'm always open to collaborations and discussions about technology, IT infrastructure, or anything tech-related!
 
 
 
