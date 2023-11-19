@@ -15,12 +15,16 @@ I'm an IT infrastructure specialist and currently pursuing my studies at IIT. My
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radfre/radfre/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/radfre/radfre/output/github-contribution-grid-snake.svg">
 </picture>
-
+<div>
+  <a href="https://github.com/radfre">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radfre&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=radfre&show_icons=true&theme=dracula"/>
+</div>
 
 ### Connect With Me
 📫 Reach out to me at Schatzalex97@gmail.com
 
-Connect on [LinkedIn](https://www.linkedin.com/in/alexander-schatz-9197ba1b5/)
+👯 Connect on [LinkedIn](https://www.linkedin.com/in/alexander-schatz-9197ba1b5/)
 
 ### Fun Fact
 I love baking delightful pastries and experimenting with new recipes! It's my creative outlet and brings a sense of joy and fulfillment to my life.
